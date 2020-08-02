@@ -1,4 +1,4 @@
-# Scaffold for social media app with Ruby on Rails
+# Social Media app with Ruby on Rails
 
 > This repo includes intial code for social media app with basic styling. Its purpose is to be a starting point for Microverse students.
 
@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-TBA
+[Live Demo Link](https://pure-meadow-25712.herokuapp.com)
 
 
 ## Getting Started
@@ -59,7 +59,7 @@ Open `http://localhost:3000/` in your browser.
 
 ### Deployment
 
-TBA
+- Heroku Deployment
 
 ## Authors
 
